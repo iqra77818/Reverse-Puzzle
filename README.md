@@ -4,3 +4,12 @@ Technologies Used
 • HTML – for structure
 • CSS – for styling and layout
 • JavaScript – for game logic and interactivity
+
+## Screenshots
+
+### Screenshot 1
+![Screenshot 1](ss2.png)
+
+### Screenshot 2
+![Screenshot 2](ss1.png)
+
